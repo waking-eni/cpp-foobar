@@ -64,7 +64,7 @@ int main()
     string text;
     string result;
     cout << "Please enter your text: "<< endl;
-	getline(cin, text);
+    getline(cin, text);
     result = braille(text);
     cout << "The translation is: "<< result << endl;
     return 0;
