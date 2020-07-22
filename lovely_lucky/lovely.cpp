@@ -38,4 +38,5 @@ int solution(int total_lambs)
 int main()
 {
     std::cout << solution(143);
+    return 0;
 }
