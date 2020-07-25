@@ -1,2 +1,3 @@
 # cpp-smol
-Small mathematical programs written in C++.
+Small programs written in C++.\
+Games, foobar and mathematical challenges.
